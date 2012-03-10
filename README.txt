@@ -1,5 +1,15 @@
-ABOUT PROCESSWIRE
----------------------------------------------------------------------------
+﻿ABOUT PROCESSWIRE
+PL---------------------------------------------------------------------------
+ProcessWire jest opartym na licencji Open Source, Systemem zarządzania treścią (CMS) i framweorkiem
+skierowanym do potrzeb projektantów, programistów i ich
+klientów. ProcessWire daje większą kontrolę nad polami, szablonami i
+znacznikami od innych platform, a dostarcza potężny system szablonów, które
+działają tak jak Ty. API ProcessWire sprawia, że praca z
+treścią jest łatwa i przyjemna. Zarządzanie i rozwój witryny w
+ProcessWire jest szokująco prosty w porównaniu do oprogramowania które być może używasz.
+http://processwire.com
+
+EN---------------------------------------------------------------------------
 ProcessWire is an open source content management system (CMS) and web 
 application framework aimed at the needs of designers, developers and their 
 clients. ProcessWire gives you more control over your fields, templates and 
